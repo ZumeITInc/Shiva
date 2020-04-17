@@ -1,0 +1,6 @@
+patient_name=input("enter patient name:")
+age=input("enter patient age:")
+print('patient name is {},and his age is {}' .format(patient_name,age))
+print('patient name is {1},and his age is {0}' .format(patient_name,age))
+print('patient name is {1},and his age is {1}' .format(patient_name,age))
+print('patient name is {0},and his age is {0}' .format(patient_name,age))

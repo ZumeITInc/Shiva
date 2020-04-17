@@ -1,0 +1,12 @@
+list_1=[1,2,3,4,5]
+print(list_1[4])
+list_2=['shiva',1996,'bandari']
+print(list_2[2])
+list_3=[1,2,3,4,5,6]
+print(list_3[2])
+list_4=[9,8,7,6,5,4]
+print(list_4[1:])
+l1=[1,2,3]
+l2=[4,5,6]
+final_list=l1+l2
+print(final_list)
